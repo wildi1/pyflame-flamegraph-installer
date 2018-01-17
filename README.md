@@ -1,6 +1,7 @@
 # Pyflame & Flamegraph Installer and Executer
 This Script installs the actual master of pyflame and flamegraph to the current folder.
 After installation, run the script again and you can profile a given python program by process-id the number of seconds you want.
+
 Having profiling finished, the script automatically runs the Google Chrome and shows the profiled Flamegraph
 
 Parameters
