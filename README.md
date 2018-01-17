@@ -4,7 +4,7 @@ After installation, run the script again and you can profile a given python prog
 
 Having profiling finished, the script automatically runs Google Chrome and shows the profiled Flamegraph.
 
-All Data is saved in the automatic created "profile_data" folder.
+All profiled data is saved in the automatic created "profile_data" folder.
 
 Parameters
 ----------
